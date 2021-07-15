@@ -1,0 +1,24 @@
+더미 데이터를 테이블에 삽입할 필요가 있다
+
+- Factory
+
+- Char.js 이용해서 그래프로 나타내기.
+(조회수가 많은 순서로 막대 그래프)
+
+- Seeder
+
+
+
+traite
+
+
+인기있는 7가지 자바스크립트 라이브러리
+
+Animate.js
+HOWLER.js
+Chart.js
+REVEAL.js(transition effect zoom in and out themes)
+vertical slides, export to pdf
+WebGL.js (3d effect)
+PixiJS.js(2d effect water ripple effects)
+Video.js(video player skins .... )
